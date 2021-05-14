@@ -19,6 +19,7 @@ To run the program, the needed files for download are:
 - GUI.py for running the program and accessing the GUI for the application
 
 And then, to run the GUI application just run the GUI.py in a compiler of your choice.
+
 For Linux/Anaconda, go to the directory where the files are located and input the command:
 ```
 python GUI.py
